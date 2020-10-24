@@ -2,6 +2,7 @@
 ------
 
 Project Page: [click here](https://glitch.com/~mixolydian-scented-comfort)
+
 Live App: [click here](https://mixolydian-scented-comfort.glitch.me)
 
 Project Issue Tracker
